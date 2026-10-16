@@ -1,6 +1,6 @@
 ### Hi, I'm Jinglin Cao 👋
 
-**[Personal research homepage →](https://wr3ck1am.github.io/)** · [English CV](https://wr3ck1am.github.io/assets/docs/Jinglin_Cao_Public_EN.pdf) · [中文简历](https://wr3ck1am.github.io/assets/docs/Jinglin_Cao_Public_ZH.pdf)
+**[Personal research homepage →](https://wr3ck1am.github.io/)** · [English CV](https://wr3ck1am.github.io/cv.html) · [中文简历](https://wr3ck1am.github.io/cv.html)
 
 M.S. student in Machine Learning and Data Science at UC San Diego (Dec 2026), working on
 robot learning, embodied agents, and evaluation.
