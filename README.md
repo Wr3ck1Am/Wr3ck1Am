@@ -7,7 +7,7 @@ robot learning, embodied agents, and evaluation.
 
 - 🏠 **RobotAgentBench — co-project leader & co-first author:** evaluation design, task construction, model adaptation, and experiments for open-world household robot autonomy. 50 layouts; 90 atomic, 18 short-horizon and 8 long-horizon tasks; 4 open-ended scenarios. Paper and benchmark code released Oct 2026. [Project](https://aetherlabsai.github.io/RobotAgentBench/) · [arXiv](https://arxiv.org/abs/2610.34649) · [Code](https://github.com/AetherLabsAI/RobotAgentBench)
 - 🤖 **CRIS-0 — co-first author:** agent-side planning, execution, tool interfaces and policy integration for a causal robotic intelligence system. Released Oct 2026. [Research blog](https://aetherlabs.ai/articles/real-world-autonomous-robotic-system-with-causality-driven-agent-and-world-model)
-- 🧠 **CAMP — co-second author:** behavioral memory for partially observable manipulation. Submitted to CoRL Workshop and TRA. [Project](https://robo-camp.github.io/) · [arXiv](https://arxiv.org/abs/2606.21188)
+- 🧠 **CAMP — co-second author:** behavioral memory for partially observable manipulation. Accepted as a CoRL Workshop Spotlight (oral presentation); submitted to T-RA. [Project](https://robo-camp.github.io/) · [arXiv](https://arxiv.org/abs/2606.21188)
 - 🌐 **Video2World — author:** benchmark for coding agents reconstructing interactive simulations from embodied videos. arXiv preprint, Oct 2026. [Project](https://aetherlabsai.github.io/Video2World/) · [arXiv](https://arxiv.org/abs/2610.04432) · [Code](https://github.com/AetherLabsAI/Video2World)
 - 🚗 Previously: multi-sensor auto-labeling and BEVFormer perception at Jingwei Hirain.
 
